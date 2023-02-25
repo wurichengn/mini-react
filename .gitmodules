@@ -1,0 +1,4 @@
+[submodule "framework"]
+	path = framework
+	url = http://gitlab.yizhun-ai.com/web-2022/framework.git
+	branch = dev
